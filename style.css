@@ -71,3 +71,8 @@ img {
 .clear {
   clear: both;
 }
+
+/**********START***********/
+@media screen and (max-width: 420px) {
+  
+}
